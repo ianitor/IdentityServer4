@@ -12,7 +12,7 @@ branches:
   - master
 
 build_script:
-- ps: .\build.ps1
+- ps: .\build.ps1 -sdk
 - sh: ./build.sh
 
 test: off
