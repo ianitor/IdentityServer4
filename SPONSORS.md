@@ -4,10 +4,6 @@ We thank those who [support](https://www.patreon.com/identityserver) IdentitySer
 
 ## Corporate
 
-### Platinum 
-
-[Auth0](https://auth0.com/) ([@Auth0](https://twitter.com/Auth0))
-
 ### Gold
 
 [Thinktecture AG](https://www.thinktecture.com)   ([@Thinktecture](https://twitter.com/thinktecture))  
@@ -35,7 +31,6 @@ Tobias Höft ([@tobiashoeft](https://twitter.com/tobiashoeft))
 Richard Simpson ([@RichardSimp](https://twitter.com/RichardSimp))  
 Gusztav Varga ([@gusztavvargadr](https://twitter.com/gusztavvargadr))  
 William Grow  
-Espen Medbø ([@emedbo](https://twitter.com/emedbo))  
 John Korsnes ([@johnkors](https://twitter.com/johnkors))  
 James Roberts  
 Chris Simmons ([@netchrisdotcom](https://twitter.com/netchrisdotcom))  
@@ -65,3 +60,5 @@ Alexandru Puiu
 Michael Calasanz  
 Fredrik Karlsson  ([@fredrik_zenit](https://twitter.com/fredrik_zenit))  
 Steve Graddy
+Tomáš Jurásek  ([@tomasjurasek](https://twitter.com/tomasjurasek))  
+
